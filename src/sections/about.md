@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: Discover the Hidden Gems of Northwestern Pennsylvania
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+Experience the beauty and adventure of Northwestern Pennsylvania at our upcoming festival. From scenic drives and outdoor excursions to cultural and culinary experiences, there's something for everyone to discover. Join us for a weekend of exploration, entertainment, and unforgettable memories.
